@@ -1,25 +1,34 @@
-# Hi there, I'm Suraj! 👋
+# Hi there, I'm Suraj Kumar 👋
 
-### 📊 Data Analyst & Data Science Enthusiast
-Passionate about uncovering insights from data, building interactive dashboards, and solving complex problems using data-driven approaches.
+### AI/ML Engineer | Data Scientist | Data Analyst
 
----
+🎓 Computer Science Graduate passionate about Machine Learning, Generative AI, Data Analytics, and building end-to-end AI applications.
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack
 
-- **Languages:** Python, SQL
-- **Data Analysis & Libraries:** Pandas, NumPy, Scikit-Learn
-- **Data Visualization:** Power BI, Matplotlib, Seaborn
-- **Tools & Platforms:** GitHub, Jupyter Notebook, PySpyder
-
----
+* Python, SQL, MongoDB
+* Scikit-Learn, TensorFlow, PyTorch, XGBoost
+* LangChain, LangGraph, RAG, FAISS, LLMs
+* Power BI, Pandas, NumPy, Plotly
+* FastAPI, Streamlit, Git, GitHub
 
 ### 🚀 Featured Projects
-- **Credit Card Customer Transaction Analysis** (Power BI Dashboard)
-- **Bank Loan Analysis Dashboard** (Power BI & SQL)
-- **Credit Card Fraud Detection** (Data Science / Machine Learning)
 
----
+* IntelliSearch – Adaptive RAG AI Assistant
+* Plant Disease Detection & Segmentation (88.44% Accuracy)
+* Credit Card Fraud Detection (ROC-AUC: 0.926)
+* Bank Loan Analysis Dashboard
+* Credit Card Customer Transaction Analysis Dashboard
 
-### 🤝 Connect with Me
-- **LinkedIn:** www.linkedin.com/in/surajkumar-ds
+### 🏆 Certifications
+
+* Data Science & Machine Learning Program – PYSpiders
+* Power BI Job Simulation – PwC Switzerland
+* Career Essentials in Business Analysis – Microsoft & LinkedIn
+
+### 📫 Connect With Me
+
+* LinkedIn: linkedin.com/in/surajkumar-ds
+* Email: [surajmishra0775@gmail.com](mailto:surajmishra0775@gmail.com)
+
+⭐ Open to opportunities in Data Science, AI/ML, Generative AI, and Data Analytics.
