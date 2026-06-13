@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Suraj! 👋
 
-<!--
-**Surajkr1166/Surajkr1166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst & Data Science Enthusiast
+Passionate about uncovering insights from data, building interactive dashboards, and solving complex problems using data-driven approaches.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+- **Languages:** Python, SQL
+- **Data Analysis & Libraries:** Pandas, NumPy, Scikit-Learn
+- **Data Visualization:** Power BI, Matplotlib, Seaborn
+- **Tools & Platforms:** GitHub, Jupyter Notebook, PySpyder
+
+---
+
+### 🚀 Featured Projects
+- **Credit Card Customer Transaction Analysis** (Power BI Dashboard)
+- **Bank Loan Analysis Dashboard** (Power BI & SQL)
+- **Credit Card Fraud Detection** (Data Science / Machine Learning)
+
+---
+
+### 🤝 Connect with Me
+- **LinkedIn:** [Aap apna LinkedIn profile link yahan paste karein]
