@@ -22,4 +22,4 @@ Passionate about uncovering insights from data, building interactive dashboards,
 ---
 
 ### 🤝 Connect with Me
-- **LinkedIn:** [Aap apna LinkedIn profile link yahan paste karein]
+- **LinkedIn:** www.linkedin.com/in/surajkumar-ds
