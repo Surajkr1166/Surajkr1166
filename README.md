@@ -8,20 +8,29 @@ Computer Science graduate focused on building end-to-end AI and data-driven solu
 
 ### 🛠️ Tech Stack
 
-**Languages & Databases**
-`Python` · `SQL` · `MongoDB`
+**Languages**
+`Python (OOP)` · `SQL`
 
-**Machine Learning & AI**
-`Scikit-Learn` · `TensorFlow` · `PyTorch` · `XGBoost`
+**Generative AI & LLM**
+`LangChain` · `LangGraph` · `Groq (LLaMA 3.1)` · `FAISS` · `Sentence Transformers` · `Prompt Engineering` · `RAG` · `Corrective RAG (CRAG)` · `Agentic Workflows` · `Vector Databases`
 
-**Generative AI / LLMs**
-`LangChain` · `LangGraph` · `RAG` · `FAISS`
+**Machine Learning & Deep Learning**
+`Scikit-learn` · `PyTorch` · `TensorFlow` · `Random Forest` · `XGBoost` · `CatBoost` · `CNN` · `Transfer Learning (EfficientNet)` · `NLP` · `Classification` · `Regression` · `SMOTE` · `ADASYN` · `Cross-Validation` · `Hyperparameter Tuning` · `Model Evaluation (ROC-AUC, Precision, Recall, F1)`
 
-**Data Analytics & Visualization**
-`Power BI` · `Pandas` · `NumPy` · `Plotly`
+**Data Analysis**
+`Pandas` · `NumPy` · `EDA` · `Feature Engineering` · `Data Cleaning` · `Statistics` · `Probability` · `Hypothesis Testing` · `Confidence Intervals` · `Outlier Detection` · `A/B Testing`
 
-**Tools & Frameworks**
-`FastAPI` · `Streamlit` · `Git` · `GitHub`
+**Visualization & BI**
+`Power BI (DAX, Power Query, Data Modeling, KPI Dashboards)` · `Excel (Pivot Tables, VLOOKUP, Power Query)` · `Plotly` · `Matplotlib` · `Seaborn`
+
+**Web & Backend**
+`FastAPI` · `Streamlit` · `REST APIs` · `MongoDB (Motor Async)` · `Git` · `GitHub`
+
+**Database**
+`SQL (Joins, CTEs, Window Functions, Query Optimization, ETL)`
+
+**Tools**
+`Jupyter Notebook` · `Google Colab` · `PyCharm` · `VS Code` · `OpenCV` · `QGIS` · `Albumentations`
 
 ---
 
